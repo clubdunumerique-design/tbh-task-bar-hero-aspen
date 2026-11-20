@@ -192,6 +192,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*TBH: Task Bar Hero · Updated 2026-11-19 · Shared under the MIT License*
+*TBH: Task Bar Hero · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- updated 2026-11-19 -->
+<!-- updated 2026-11-20 -->
